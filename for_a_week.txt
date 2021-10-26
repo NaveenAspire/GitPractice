@@ -1,0 +1,5 @@
+MySQL - Data types, DDL commands, DML commands, SQL statements, JOINS, Keys and constraints.
+
+Web Technology - OSI Layers, DNS, Web server. 
+
+Project - Change the code for more efficiency.
