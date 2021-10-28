@@ -1,3 +1,0 @@
-Web Technology - Rest standards
-
-MySQL - Aggregate Functions
