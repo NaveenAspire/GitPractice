@@ -1,0 +1,21 @@
+MySQL - Data types, DDL commands, DML commands, SQL statements, JOINS, Keys and constraints.
+
+Web Technology - OSI Layers, DNS, Web server. 
+
+Project - Change the code for more efficiency.
+
+18 to 22 :
+
+Web Technology - Rest standards, Storage Engine
+
+MySQL - Aggregate Functions, Cookies
+
+25 to 29 :
+
+Django - Middlewares, Headers, query string, cookies, sessions, template inheritance, cache framework
+
+Web Technology - Web hosting
+
+01 to 5 :
+
+DRF - Serialization, request and response, class based and function based views.
