@@ -18,4 +18,8 @@ Web Technology - Web hosting
 
 01 to 5 :
 
-DRF - Serialization, request and response, class based and function based views.
+DRF - Serialization, request and response, class based and function based views, Relationship and hyperlinked APIs
+
+CSS - css attributes
+
+08 to 12 :
