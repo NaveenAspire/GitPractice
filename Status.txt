@@ -23,8 +23,8 @@ DRF - Serialization, request and response, class based and function based views,
 CSS - css attributes
 
 08 to 12 :
-DRF - Viewsets
+DRF - Viewsets, routers
 
 CSS - 
 
-HTML - drag and drop, forms, video and audio
+HTML - drag and drop, forms, video and audio, Geolocation, web storage, web workers
