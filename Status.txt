@@ -25,6 +25,8 @@ CSS - css attributes
 08 to 12 :
 DRF - Viewsets, routers
 
-CSS - 
+Django - Filter, Tags, Custom tags, Query API, Router URLs
+
+CSS - Selectors, Pseudo class
 
 HTML - drag and drop, forms, video and audio, Geolocation, web storage, web workers
